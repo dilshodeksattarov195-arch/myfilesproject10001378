@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpalculate",
+        "uuid": 12080926,
+        "checksum": "cwhm48"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
